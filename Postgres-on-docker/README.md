@@ -1,1 +1,4 @@
-Create postgres docker image and establish connection to db from python 
+- Create postgres docker image from docker-compose.yml
+- Run it with docker-compose up -d
+- Establish connection to db from dbconnection.py
+- Insert credentials in pgadim for table manipulation and sql queries 
