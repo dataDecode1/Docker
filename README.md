@@ -5,6 +5,9 @@
    docker volume prune
    docker image prune
    ```
+- docker-compose making 2 differnet container talk to one another 
+   - https://github.ibm.com/Krishna-Damarla1/Edeka/blob/master/ldap/docker-compose-persistent1.yml
+   
 - Pull or Import the docker image 
     - **docker pull cloudera/quickstart:latest** (sample Cloudera docker image installation)
           (or)
