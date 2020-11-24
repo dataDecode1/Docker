@@ -1,4 +1,10 @@
 # Docker commands
+- clear the stopped containers, volumes, images
+   ```
+   docker container prune
+   docker volume prune
+   docker image prune
+   ```
 - Pull or Import the docker image 
     - **docker pull cloudera/quickstart:latest** (sample Cloudera docker image installation)
           (or)
